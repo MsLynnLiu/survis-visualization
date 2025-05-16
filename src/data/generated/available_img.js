@@ -1,1 +1,0 @@
-const availableImg = ["Beck2016Visual","chen2007vector","chen2008data","firat2023moneyvis","geng2011angular","hullman2013contextifier","liu2023visualization","mcnabb2017survey","rees2019survey","roberts2018visualising","zhang2023ifundit"];
